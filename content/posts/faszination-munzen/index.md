@@ -1,8 +1,9 @@
 +++
 title = "Faszination Münzen "
 date = "2023-06-16"
-draft = true
+draft = false
 pinned = false
+image = "swissmint-muenzstaette-5-1280x730px-1-1280x730.jpg"
 description = "Die Welt der Münzen - faszinierend und näher als man denkt."
 +++
 {{<lead>}}
@@ -21,8 +22,6 @@ Das Metall Schweizer Münzen stammt nicht aus der Schweiz, sondern aus Südkorea
 
 ![Das stattliche Gebäude aus rotem Backstein - die Eidgenössische Münzstätte, Swissmint. Foto: Nora Imoberdorf](thumbnail_img_4329-klein.jpg)
 
-
-
 Ein grosser Lastwagen steht vor dem roten Gebäude der Swissmint. Ein Lastwagen voll mit Geld. Die Münzen, die im Alltag benutzt werden, werden in diesem Gebäude im Kirchenfeldquartier geprägt. 150 bis 750 Münzen pro Minute. Die silbernen Geldstücke kullern auf die Verpackungsstrasse, wo sie gezählt und anschliessend in Rollen zu 25 beziehungsweise 50 Stück verpackt werden. 
 
 Langsam setzt sich das Fahrzeug wieder in Fahrt und transportiert die Münzen in Richtung Schweizer Nationalbank – SNB. Dort werden sie in Tresoren gelagert und warten darauf, als alltägliches Austauschmittel für Waren und Dienstleistungen zu dienen und in den Umlauf gebracht zu werden. 
@@ -32,6 +31,8 @@ Doch nicht alle Münzen werden in den Lastwagen geladen. Einige bleiben in der S
 Nicht nur die Sondermünzen der Swissmint begeistern Numismatiker rund um die Welt. Auch antike Sammlerstücke sind an Münzmessen, wie der BERNA, welche dieses Jahr bereits zum 50. Mal zahlreiche Münzbegeisterte anlockt, begehrt. Das erklärt Beat A. Klein, der Präsident des Numismatischen Vereins Bern (NVB). Die Faszination der Numismatik liegt in der Vielfalt der Münzen, ihrer künstlerischen Gestaltung und der Geschichten, welche sie erzählen. 
 
 > «Das fasziniert mich. Das Wissen der alten Kulturen über Metallurgie.»
+>
+> \- Beat A. Klein
 
 ![Der Mani Matter gewidmeten Sondermünze werden feinste Details mit spezialisierten Prägemaschinen zugefügt. Bild: https://www.sondermuenze.ch/de/](swissmint-muenzstaette-5-1280x730px-1-1280x730.jpg)
 
@@ -58,6 +59,10 @@ Optisch kann überprüft werden, ob Unstimmigkeiten in der Prägung der Oberflä
 Wesentlich einfacher ist es, einen Bargeldautomaten wie den Kassenautomaten im Parkhaus, den Billetautomaten an der Tramhaltestelle oder den Getränkeautomaten am Bahnhof die Prüfung vornehmen zu lassen. Einzige Voraussetzung: Die Münze darf nicht statisch geladen sein.
 
 ![Links: Artikel zu Falschgeld - Swissmint; Mitte: Falschgeldstatistik 2022 - Swissmint; Rechts: Die Münzen - SNB](screenshot-2023-06-16-212658.png)
+
+{{</box>}}
+
+
 
 ### Wahrer Wert und effektive Kosten
 
