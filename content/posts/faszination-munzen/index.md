@@ -4,7 +4,7 @@ date = "2023-06-16"
 draft = false
 pinned = false
 image = "swissmint-muenzstaette-5-1280x730px-1-1280x730.jpg"
-description = "Die Welt der Münzen - faszinierend und näher als man denkt."
+description = "Die Welt der Münzen - faszinierend und näher als man meint."
 +++
 {{<lead>}}
 
