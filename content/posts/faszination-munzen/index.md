@@ -18,7 +18,7 @@ Nora Imoberdorf, Elisabeth Voller und Lia Werren
 
 Das regelmässige Geräusch der Prägemaschinen erfüllt den hohen Raum im Untergeschoss. Ein Metallrohling kommt in die Maschine und dann geschieht alles sprichwörtlich auf einen Schlag. Unter hohem Druck werden Vorderseite, Rückseite und Rand in den Rohling geprägt. Innert kürzester Zeit wird aus dem glatten Metall eine strukturierte, dekorierte Münze, wie wir sie täglich sehen und gebrauchen. 
 
-Das Metall Schweizer Münzen stammt nicht aus der Schweiz, sondern aus Südkorea. Seit der Umstellung vom Silber- zu Kupfernickelgeld im Jahre 1968 stellt die Münzstätte ihre Rohlinge nicht mehr selbst her, sondern bestellt die fertigen Münzplättchen bei externen Lieferanten. Woher die Rondellen kommen, hängt vom besten Angebot und dabei vor allem vom Preis ab. Dies entspricht den Beschaffungsvorschriften des Bundes, erklärt Jan Niklas Betz, Leiter Marketing und Verkauf und stellvertretender Leiter der Swissmint. 
+Das Metall der Schweizer Münzen stammt nicht aus der Schweiz, sondern aus Südkorea. Seit der Umstellung vom Silber- zu Kupfernickelgeld im Jahre 1968 stellt die Münzstätte ihre Rohlinge nicht mehr selbst her, sondern bestellt die fertigen Münzplättchen bei externen Lieferanten. Woher die Rondellen kommen, hängt vom besten Angebot und dabei vor allem vom Preis ab. Dies entspricht den Beschaffungsvorschriften des Bundes, erklärt Jan Niklas Betz, Leiter Marketing und Verkauf und stellvertretender Leiter der Swissmint. 
 
 ![Das stattliche Gebäude aus rotem Backstein - die Eidgenössische Münzstätte, Swissmint. Foto: Nora Imoberdorf](thumbnail_img_4329-klein.jpg)
 
