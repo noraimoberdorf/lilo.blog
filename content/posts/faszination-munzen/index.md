@@ -40,7 +40,15 @@ Nicht nur die Sondermünzen der Swissmint begeistern Numismatiker rund um die We
 
 Auf Münzmessen werden begehrte Stücke teilweise zu sehr hohen Preisen verkauft, und da möchte natürlich kein*e Numismatiker*in eine Fälschung kaufen. Oder etwa schon? 
 
-Grundsätzlich sind Münzfälschungen in der Schweiz kein Problem und die Fallzahlen bewegen sich im Promillebereich klärt Jan Niklas Betz auf. «Es gab aber einmal eine grosse Fälschung im Jahr 1991, da ist eine Fälschung von Fünffränklern in die Schweiz gekommen.» Zu diesem Zeitpunkt hatte die SNB die Fünfliber aus dem Jahr noch nicht herausgeben und konnte rechtzeitig eingreifen. Sie liess alle gelagerten Stücke zerstören, was zur Folge hat, dass es - mit einer Ausnahme - keine echten Fünfliber des Jahrgangs 1991 gibt. «Die einzigen Fünffränkler aus dem Jahr sind die aus dem offiziellen Münzsatz», präzisiert Betz. 
+Grundsätzlich sind Münzfälschungen in der Schweiz kein Problem und die Fallzahlen bewegen sich im Promillebereich klärt Jan Niklas Betz auf. «Es gab aber einmal eine grosse Fälschung im Jahr 1991, da ist eine Fälschung von Fünffränklern in die Schweiz gekommen.» Zu diesem Zeitpunkt hatte die SNB die Fünfliber aus dem Jahr noch nicht herausgeben und konnte rechtzeitig eingreifen. Sie liess alle gelagerten Stücke – mit einer Ausnahme nämlich dem offiziellen Münzsatz des Jahrgangs 1991 – zerstören, was zur Folge hat, dass es nur eine begrenzte Anzahl echter Fünfliber des Jahrgangs 1991 gibt. «Die einzigen Fünffränkler aus dem Jahr sind die aus dem offiziellen Münzsatz», bestätigt Betz. 
+
+{{<box>}}
+
+### Der offizielle Münzsatz
+
+Seit 1974 produziert die Swissmint jährlich einen offiziellen Münzsatz. Das ist eine Zusammenstellung aller kursläufigen Münzen eines Jahrgangs. Meist werden diese Zusammen mit einer Sondermünze oder Medaille in einer Box verkauft. Sie sind ein beliebter Artikel für Sammler, sowie Neugeborene eines entsprechenden Jahrgangs.
+
+{{</box>}}
 
 Während die Nationalbank bestrebt ist, Fälschungen möglichst aus dem Umlauf zu nehmen, suchen die Münzsammler aber laut der Nachrichtensendung «Echo der Zeit» genau nach diesen Fälschungen. Die falschen Fünfliber zählen unter Sammlern bisweilen zu den Wertvollsten. Für solch rare Stücke sind sie bereit, ein Vielfaches des aufgeprägten Werts zu zahlen. 
 
